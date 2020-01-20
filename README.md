@@ -7,9 +7,9 @@ Part1: Implementation of the **A\* search algorithm** using *Java* for taxi's na
 Part2: In addition to Java, *Prolog* is also used via **JIProlog** in order to read useful information about the world, such as traffic, roads with tolls, highway road, max speed etc. ,  which is stored in its knowledge base.
 
 ## Usage
-
+```
 $ java Main clients.csv taxis.csv lines.csv nodes.csv traffic.csv
-
+```
 ## Students
 
 The project was implemented by 
