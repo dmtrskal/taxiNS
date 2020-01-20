@@ -1,6 +1,18 @@
-# taxiAstar
+# Project for the academic course "Artificial Intelligence" (ECE NTUA )
 
-## :car: Contents 
+## Description
 
-1. The first part of the assignment contains an implementation of the **A* search algorithm** implemented in Java for navigation on a map. In particular, a client wants to call a taxi which takes the fastest route from its origin to the client location. The data are harvested from **OpenStreetMaps** and plotted using MyMaps.  
-2. The second part of the assignment introduces the use of **Prolog** along with Java via **JIProlog** in order to store useful information about the world in its knowledge base. Multiple taxis can serve a customer and the customer must select which one he prefers according to criteria. 
+Part1: Implementation of the **A\* search algorithm** using *Java* for taxi's navigation on a map(calculation of the fastest route from taxi's current position to client's location). The data are collected from OpenStreetMaps. 
+  
+Part2: In addition to Java, *Prolog* is also used via **JIProlog** in order to read useful information about the world, such as traffic, roads with tolls, highway road, max speed etc. ,  which is stored in its knowledge base.
+
+## Usage
+```
+$ java Main clients.csv taxis.csv lines.csv nodes.csv traffic.csv
+```
+## Students
+
+The project was implemented by 
+
+* Dimitrios Kalogeropoulos
+* Iasonas Chardouvelis
