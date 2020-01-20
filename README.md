@@ -10,7 +10,7 @@ Part2: In addition to Java, *Prolog* is also used via **JIProlog** in order to r
 ```
 $ java Main clients.csv taxis.csv lines.csv nodes.csv traffic.csv
 ```
-## Example: Available Taxis and optimal client's route displayed on Google Maps
+## Example: Available Taxis and optimal client's route (Google Maps)
 
 ![screenshot](AI-Project-Part2/AI-ask2-screenshot.png)
 
