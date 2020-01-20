@@ -1,4 +1,4 @@
-# taxiAstar : Project for the academic course "Artificial Intelligence" (ECE NTUA )
+# Project for the academic course "Artificial Intelligence" (ECE NTUA )
 
 ## Description
 
