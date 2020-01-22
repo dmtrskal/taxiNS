@@ -1,4 +1,4 @@
-# Project for the academic course "Artificial Intelligence" (ECE NTUA )
+# Project for the academic course "Artificial Intelligence" 2016-2017 (ECE NTUA )
 
 ## Description
 
